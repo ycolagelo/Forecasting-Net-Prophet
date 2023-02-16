@@ -66,6 +66,6 @@ The near-term forecast for the MercadoLibre is indicating a drop in popularity.
 ### Visualizing future trends by year, day and week
 ![Image](trends.png)
 
-* The greatest popularity is happens in the early morning and in the evening.
-* uesday has the most search traffic
+* The greatest popularity  happens in the early morning and in the evening.
+* Tuesday has the most search traffic
 * The lowest search traffic in the year takes a place in November
